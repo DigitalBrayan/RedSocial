@@ -1,0 +1,11 @@
+
+
+api/node_modules
+api/dist
+api/.env
+api/cypress
+
+
+client/node_modules
+client/.env
+.idea
